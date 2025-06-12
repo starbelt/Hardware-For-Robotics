@@ -53,6 +53,11 @@ set up for battery performence test
 once the battery was depleted I waited for it to cool down. After a couple of minutes the battery cooled down enough for me to plug it into the charger. The battery took 1 hour and 22 minutes to charge back up.  
 <img src="https://github.com/user-attachments/assets/c3258799-eb9d-49ff-a240-5721eaf3b5e1" width=40% height=40%>    
 Total time for battery charger  
+<br><br>  
+
+I configured the on-screen display through the beta flight configurator. I first picked the setting I wanted to appear in, and then I placed them in an appropriate spot. Once I picked the correct video format and saved all, I needed to do was set up the goggles. First, I connected the antennas to the drone. AFter that, I looked through the various channels and bands in order to find the ones that matched the video transmitter. Once I found the matches, I could see through the drone camera with the goggles. In the on-screen display of the goggles, I could also see all the settings. I had to edit them in order to make them fit into the screen. The settings I decided to include are altitude, artificial horizon, artificial horizon sidebars, battery average cell voltage, battery current draw, battery current mAh drawn, compass bar, link quality, throttle position, timer 1, and the vtx channel.  
+<img src="https://github.com/user-attachments/assets/5bb4e72c-6329-4edf-a681-f49024f66fa5" width=40% height=40%>  
+On screen display in goggles
 <br><br>
 
 
