@@ -46,7 +46,7 @@ set up software for propellors, camera, and trasmitter
 <br><br>
 
 I switched to testing for battery performance. At first, I connected the drone and set the throttle to 15% through my computer and tracked the amps drawn every 3 minutes. After half an hour, only 971 mAh had been drawn from 5000 mAh. I decided to stop the test then, as it would take too long to deplete the battery. I realized that by not having the propellers attached, the motors do not encounter any resistance. For the second test, I decided to increase the throttle to 20%. I also attached the propellers by placing them on opposite sides so they would be pushing the drone down. With this test at the half-hour mark, 2530 mAh had been drawn, which is considerably more than the first test. At this point, I increased the throttle to 30% to deplete the battery faster. At around minute 43, the motors decreased speed by themselves. I let them run until minute 46 when the motors stopped by themselves. At the end, the drone drew 4193 mAh.
-<img src="https://github.com/user-attachments/assets/554021fc-f20b-4fd5-99da-61ac21a6e713" width=40% height=40%>   
+<img src="https://github.com/user-attachments/assets/554021fc-f20b-4fd5-99da-61ac21a6e713" width=40% height=40%>    
 set up for battery performence test  
 <br><br>  
 
